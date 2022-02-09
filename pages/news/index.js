@@ -1,3 +1,5 @@
+//our-domain/news
+
 import React from "react";
 
 const NewsPage  = () => {
